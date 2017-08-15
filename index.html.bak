@@ -1,0 +1,462 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>THE MAHARAJA SADAN</title>
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<!--theme-style-->
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />	
+<link href="css/font-awesome.css" rel="stylesheet">
+<!--//theme-style-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="og:title" content="Vide" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content=""  />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!---->
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<!---->
+<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
+<link href='//fonts.googleapis.com/css?family=Nunito:400,700,300' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Open+Sans:400,800italic,800,700italic,700,600italic,600,400italic,300italic,300' rel='stylesheet' type='text/css'>
+<!---strat-date-piker---->
+<!-- requried-jsfiles-for owl -->
+							<link href="css/owl.carousel.css" rel="stylesheet">
+							    <script src="js/owl.carousel.js"></script>
+							        <script>
+							    $(document).ready(function() {
+							      $("#owl-demo").owlCarousel({
+							        items : 1,
+							        lazyLoad : true,
+							        autoPlay : true,
+							        navigation : false,
+							        navigationText :  false,
+							        pagination : true,
+							      });
+							    });
+							    </script>
+							 <!-- //requried-jsfiles-for owl -->
+
+</head>
+<body>
+<div class="header">
+		<div class="container">
+			<div class="header-menu">
+				<nav class="navbar navbar-default">
+					<div class="container-fluid">
+						<!-- Brand and toggle get grouped for better mobile display -->
+						<div class="navbar-header">
+						  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						  </button>
+						  <div class="navbar-brand logo">
+								<h1><a href="index.html"><span>THE MAHARAJA  </span> SADAN</a></h1>
+							</div>
+						</div>
+						<!-- Collect the nav links, forms, and other content for toggling -->
+						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+						  <ul class="nav navbar-nav">
+							<li class="active"><a href="index.html" data-hover="Home">Home </a></li>
+							<li><a href="about.html" data-hover="About">About</a></li>
+							<li><a data-hover="Events" href="restaurant.html">Events</a></li>
+							<li><a data-hover="Gallery" href="gallery.html">Gallery</a></li>
+							<li><a data-hover="Rooms" href="rooms.html">Rooms</a></li>
+							 <li><a data-hover="Contact" href="contact.html">Contact</a></li>
+							 
+						  </ul>
+						</div><!-- /.navbar-collapse -->
+					</div><!-- /.container-fluid -->
+				</nav>
+			<div class="clearfix"></div>
+			</div>	
+		</div> 
+	</div>
+		<!---header--->		
+	<div class="banner-section">
+		<section class="slider">
+			<div class="flexslider">
+				<ul class="slides">
+					<li>
+						<div class="slider-info">
+							<img src="images/tms.jpg" class="img-responsive" alt="">
+						</div>
+						<div class="container">
+						</div>
+					</li>
+					<li>
+						<div class="slider-info">
+							<img src="images/tms2.jpg" class="img-responsive" alt="">
+						</div>
+						<div class="container">
+						
+						</div>
+					</li>
+				</ul>
+			</div>
+		</section>
+			<!-- FlexSlider -->
+			<script defer src="js/jquery.flexslider.js"></script>
+				<script type="text/javascript">
+					$(function(){
+						SyntaxHighlighter.all();
+					});
+					$(window).load(function(){
+					$('.flexslider').flexslider({
+					animation: "slide",
+					start: function(slider){
+					  $('body').removeClass('loading');
+					}
+					});
+					});
+				</script>
+			<!-- FlexSlider -->
+			<!-- slider -->
+	</div>
+    
+		<div class="content">
+			<!---welcome--->
+			<div class="welcome">
+				<div class="container">
+					<h2 class="tittle">Welcome To The Maharaja Sadan</h2>
+						<p class="wel text"></p>
+					<div class="wel-grids">
+						<div class="col-md-3 wel-grid">
+							<img src="images/download.jpg" class="img-responsive gray" alt=""/>
+							<h4>Three Seater</h4>
+							<p>Well Furnished Three Seater Rooms.</p>
+						</div>
+						<div class="col-md-3 wel-grid">
+							<img src="images/download2.jpg" class="img-responsive gray" alt=""/>
+							<h4>Two Seater</h4>
+							<p>Well Furnished Two Seater Rooms.</p>
+						</div>
+						<div class="col-md-3 wel-grid">
+							<img src="images/download3.jpg" class="img-responsive gray" alt=""/>
+							<h4>Single Seater</h4>
+							<p>Well Furnished One Seater Rooms.</p>
+						</div>
+						<div class="col-md-3 wel-grid">
+							<img src="images/download4.jpg" class="img-responsive gray" alt=""/>
+							<h4>AC Rooms</h4>
+							<p>Ac as well as non Ac rooms are available</p>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+				</div>
+			</div>
+			<!---welcome--->
+			<div class="resort-section">
+				<div class="container">
+					<h3 class="tittle">Facilities</h3>
+					<div class="resort-grids">
+				<!-- start content_slider -->
+						<div id="owl-demo" class="owl-carousel">
+					        <div class="item">
+					           <div class="col-md-6 cap-img">
+									<img src="images/mess.jpg" class="img-responsive gray" alt=""/><br>
+								</div>
+								<div class="col-md-6 cap">
+									<h4>Large Mess</h4><br>	
+														
+									<p>The mess in The Maharaja Sadan are large.All kinds of food is available here.It is made sure that healthy food is given to students so that their health is not compromised.The menu is made by the students themselves which is brought to action only when all the students approve of it. </p>
+									<div class="detais">
+										<div class="col-md-9 deatils-left">
+											<div class="list">
+												<ul>
+													<li><i class="glyphicon glyphicon-thumbs-up"></i> Large and can accomodate about 100 students</li><br>
+													<li><i class="glyphicon glyphicon-thumbs-up"></i>Fully Air Conditioned</li><br>
+													<li><i class="glyphicon glyphicon-thumbs-up"></i>Quality of food is checked Daily. </li>
+												</ul>
+											</div>
+										</div>
+										
+										<div class="clearfix"> </div>
+									</div>
+								</div>
+					            <div class="clearfix"> </div>
+					        </div>
+					        <div class="item">
+								<div class="col-md-6 cap-img">
+									<img src="images/gym.jpg" class="img-responsive gray" alt=""/><br>
+								</div>
+								<div class="col-md-6 cap">
+									<h4>Gym Facility available here.</h4><br>
+											
+									<p>The maharaja sadan has well equiped gym where students can work out and remain healthy and fit.The gym is situated at the terrace of the hostel.The gym also has the music system and speakers.</p>
+									<div class="detais">
+										<div class="col-md-9 deatils-left">
+											<div class="list">
+												<ul>
+													<li><i class="glyphicon glyphicon-thumbs-up"></i> Well Equipped with all instruments.</li>
+													<li><i class="glyphicon glyphicon-thumbs-up"></i>Music System with Speakers.</li><br>
+													<li><i class="glyphicon glyphicon-thumbs-up"></i> Fully Air Conditioned</li>
+												</ul>
+											</div>
+										</div>
+										
+										<div class="clearfix"> </div>
+									</div>
+								</div>
+					            <div class="clearfix"> </div>
+					        </div>
+					        <div class="item">
+					           <div class="col-md-6 cap-img">
+									<img src="images/common.jpg" class="img-responsive gray" alt=""/>
+								</div>
+								<div class="col-md-6 cap">
+									<h4>Large Common Rooms.</h4><br>	
+																		
+									<p>The Maharaja Sadan has common rooms at every floor.These rooms are equipped with amny things like television, various games like carrom,ludo etc.Any Student can these whenever she wants was leisure.</p>
+									<div class="detais">
+										<div class="col-md-9 deatils-left">
+											<div class="list">
+												<ul>
+													<li><i class="glyphicon glyphicon-thumbs-up"></i> Available at every floor.</li><br>
+													<li><i class="glyphicon glyphicon-thumbs-up "></i>well equipped with television</li><br>
+													<li><i class="glyphicon glyphicon-thumbs-up"></i> Variou games like carrom,ludo etc are available</li>
+												</ul>
+											</div>
+										</div>
+										<div class="clearfix"> </div>
+									</div>
+								</div>
+					            <div class="clearfix"> </div>
+					        </div>	
+				        </div>
+					</div>
+				</div>
+			</div>
+			<div class="superlist">
+				<div class="container">
+					<h3 class="tittle">AMENITIES</h3>
+					<p class="wel text">Equipped to be a great residential area with nearby DDA Park with Jogging Track, Markets, Hospitals , Malls, Banks, ATMs and Colleges like Maharaja Agrasen Intitute of Technology, JIMS, DSPSR & Sirifort College of Computer Technology & Management. Everything is sorted and connectivity is not an issue.</p><br>
+					<ul>
+		                                            <li><i class="glyphicon glyphicon-tick"></i>AC</li><br>
+													<li><i class="glyphicon glyphicon-tick"></i>Internet</li><br>
+													<li><i class="glyphicon glyphicon-tick"></i>Geyser</li>
+													<li><i class="glyphicon glyphicon-tick"></i>Water Cooler</li>
+													<li><i class="glyphicon glyphicon-tick"></i>Power Backup</li>
+													<li><i class="glyphicon glyphicon-tick"></i>Attached Bath</li>
+													<li><i class="glyphicon glyphicon-tick"></i>Gym</li>
+													<li><i class="glyphicon glyphicon-tick"></i>Security Gaurd</li>
+
+
+
+
+
+
+												</ul>
+					
+			</div>
+			<div class="testimonial-section">
+				<div class="container">
+					<h3 class="tittle">Testimonials</h3>
+					<div class="testimonial-grids">
+						<div class="col-md-6 testimonial-grid">
+							<div class="testimonial-left">
+								<img src="images/aditi2.jpg" class="img-responsive" alt=""/>
+							</div>
+							<div class="testimonial-right">
+								<div class="testimonial-text">
+									<h5>Home away from Home</h5>
+								</div>
+								<div class="testimonial-rating">
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+								</div>
+								<div class="clearfix"></div>
+								<p>The transition from being fully dependent on your parents to a responsible college student,living in another city has never been a piece of cake,but this place made it really easy,given the home-like environment provided here.</p>
+								<div class="testimonial-sign">- Aditi Katyal</div><!-- /.testimonial-sign -->
+								</div>
+								<div class="clearfix"></div>
+						</div>
+						<div class="col-md-6 testimonial-grid test3">
+							<div class="testimonial-left">
+								<img src="images/jigs.jpg" class="img-responsive" alt=""/>
+							</div>
+							<div class="testimonial-right">
+								<div class="testimonial-text">
+									<h5>Hostel life is treasured lifelong.</h5>
+								</div>
+								<div class="testimonial-rating">
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+								</div>
+								<div class="clearfix"></div>
+								<p>You step into a place filled with strangers who become your family, in a very short span. This beautiful transition involves compromising, adjusting and at the same time becoming responsible and independent. You enter this place with a tinge of mixed feelings and leave with a carton full of memories..</p>
+								<div class="testimonial-sign">- Jigyasa Sachdeva</div><!-- /.testimonial-sign -->
+							
+							</div>
+							<div class="clearfix"></div>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+					<div class="testimonial-grids test2">
+						<div class="col-md-6 testimonial-grid">
+							<div class="testimonial-left">
+								<img src="images/kriti.jpg" class="img-responsive" alt=""/>
+							</div>
+							<div class="testimonial-right">
+								<div class="testimonial-text">
+									<h5>Yes,this place is more than hostel.</h5>
+								</div>
+								<div class="testimonial-rating">
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+								</div>
+								<div class="clearfix"></div>
+								<p>We entered here crying,not willing to separate from our parents.WE left from here crying again,not willing to leave our second family.</p>
+								<div class="testimonial-sign">- Kriti Wadhwa</div><!-- /.testimonial-sign -->
+								
+							</div>
+							<div class="clearfix"></div>
+						</div>
+						<div class="col-md-6 testimonial-grid test3">
+							<div class="testimonial-left">
+								<img src="images/meenali.jpg" class="img-responsive" alt=""/>
+							</div>
+							<div class="testimonial-right">
+								<div class="testimonial-text">
+									<h5>Exactly What I Need</h5>
+								</div>
+								<div class="testimonial-rating">
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+								</div>
+								<div class="clearfix"></div>
+								<p>We stay away from our home and yet we have a place that never lets us feel so.It provides us new family altogether,turning us responsible with each passing day.Its really an amazing experience to be here.</p>
+								<div class="testimonial-sign">- Meenali Mittal</div><!-- /.testimonial-sign -->
+							
+							</div>
+							<div class="clearfix"></div>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+					<div class="testimonial-grids">
+						<div class="col-md-6 testimonial-grid">
+							<div class="testimonial-left">
+								<img src="images/shivani.jpg" class="img-responsive" alt=""/>
+							</div>
+							<div class="testimonial-right">
+								<div class="testimonial-text">
+									<h5>Totally Impressed</h5>
+								</div>
+								<div class="testimonial-rating">
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+								</div>
+								<div class="clearfix"></div>
+								<p>Be it food,facilities or the people, everything was just amazing.It didnt take long when i started considering it as my second home.This place is really wonderfull.</p>
+								<div class="testimonial-sign">- Shivani Agrawal</div><!-- /.testimonial-sign -->
+							
+							</div>
+							<div class="clearfix"></div>
+						</div>
+						<div class="col-md-6 testimonial-grid test3">
+							<div class="testimonial-left">
+								<img src="images/t10.jpg" class="img-responsive" alt=""/>
+							</div>
+							<div class="testimonial-right">
+								<div class="testimonial-text">
+									<h5>Exactly What I Need</h5>
+								</div>
+								<div class="testimonial-rating">
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+									<i class="fa fa-star"></i>
+								</div>
+								<div class="clearfix"></div>
+								<p>Quisque aliquet ornare nunc in viverra. Nullam ornare molestie ligula in luctus. Suspendisse ac cursus elit. Donec vel enim sit amet lorem vulputate condimentum.</p>
+								<div class="testimonial-sign">-Rachel Fast</div><!-- /.testimonial-sign -->
+							
+							</div>
+							<div class="clearfix"></div>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer-section">
+			<div class="container">
+				<div class="footer-grids">
+					<div class="col-md-3 footer-grid">
+						<h4>Get In Touch</h4>
+						<ul>
+							<li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i> Office : 9868209532</li>
+							<li><i class="glyphicon glyphicon-phone" aria-hidden="true"></i> Mobile : 9458424811</li>
+							<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i> <a href="#"><a href="mailto:info@example.com">info@example.com</a></a></li>
+							<li><i class="glyphicon glyphicon-print" aria-hidden="true"></i> Fax : 011-2435099</li>
+						</ul>
+					</div>
+					<div class="col-md-3 footer-grid">
+						<h4>Hostel top links</h4>
+						<ul>
+							<li>Our Story</li>
+							<li>Special Programs</li>
+							<li>Executive rooms</li>
+							<li>Enriched Wellness</li>
+						</ul>
+					</div>
+					<div class="col-md-3 footer-grid">
+						<h4>Our Rooms</h4>
+						<ul>
+							<li>Non Ac Room</li>
+							<li>Ac Room</li>
+							<li>Single Seater Room</li>
+						</ul>
+					</div>
+					<div class="col-md-3 footer-grid">
+						<h4>Our Services </h4>
+						<ul>
+							<li>Gym room</li>
+							<li>Free internet Wifi</li>
+							<li>Television</li>
+							<li>Well furnished Rooms</li>
+						</ul>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+		</div>
+		<!--footer-->
+			<div class="copy-section">
+				<div class="container">
+					<div class="footer-top">
+						<p>&copy; The Maharaja Sadan. All rights reserved | Design by <a href="https://www.facebook.com/yashi.agarwal.75">YASHI BINDAL</a></p>
+					</div>
+					<div class="social-icons">
+						<a href="https://www.facebook.com/yashi.agarwal.75"><i class="icon"></i></a>
+						<a href="#"><i class="icon1"></i></a>
+						<a href="#"><i class="icon2"></i></a>
+						<a href="https://www.linkedin.com/in/yashi-b-22271b91/"><i class="icon3"></i></a>
+					</div>
+				</div>
+			</div>
+	<!--footer-->
+
+</body>
+</html>
