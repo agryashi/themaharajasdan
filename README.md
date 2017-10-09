@@ -6,5 +6,8 @@ The website is of the girls hostel THE MAHARAJA SADAN. Its provides a lot of inf
 The contact.html page also provides the location of the hostel through google maps whereby anyone can easily locate the address of the hostel. <br> <br>
 The Rooms.html page gives information about the room rates for different category of rooms like single seater, double seater, three seater, ac rooms etc. Students can choose according to their requirements and budget. <br> <br>
 
-![image](https://user-images.githubusercontent.com/26721853/31343571-a0f57210-ad2d-11e7-9f96-da73dd234bf7.png)
+![image](https://user-images.githubusercontent.com/26721853/31343571-a0f57210-ad2d-11e7-9f96-da73dd234bf7.png) <br> <br>
+
+![image](https://user-images.githubusercontent.com/26721853/31343673-ecfdcaa4-ad2d-11e7-9bd7-f975dbefaf15.png) <br> <br>
+
 
