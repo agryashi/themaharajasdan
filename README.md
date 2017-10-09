@@ -1,4 +1,9 @@
 # themaharajasdan
-:classical_building:  Online website of my own hostel The Maharaja Sadan
+:classical_building:  Online website of my own hostel The Maharaja Sadan <br>
+The website consists of six html pages namely the “Home”, ”About”, ”Events”, ”Gallery”, ”Rooms” and “Contact”. Each page is designed using various concepts of HTML,CSS,BOOTSTRAP and JQUERY so that the website looks fascinating and attractive. <br> <br>
+The backend is developed using PHP and MySQL.<br><br>
+The website is of the girls hostel THE MAHARAJA SADAN. Its provides a lot of information about the hostel, its facilities, room prices, events etc. Anyone can even ask any question through the contact.html page. The message and the person’s details will be saved in the database where after his question can be answered using the details. <br> <br>
+The contact.html page also provides the location of the hostel through google maps whereby anyone can easily locate the address of the hostel. <br> <br>
+The Rooms.html page gives information about the room rates for different category of rooms like single seater, double seater, three seater, ac rooms etc. Students can choose according to their requirements and budget. <br> <br>
 
 ![image](https://user-images.githubusercontent.com/26721853/31343161-6bbfdeba-ad2c-11e7-8095-6befe36e22d5.png)
