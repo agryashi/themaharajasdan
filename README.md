@@ -9,7 +9,9 @@ The Rooms.html page gives information about the room rates for different categor
 ![image](https://user-images.githubusercontent.com/26721853/31343571-a0f57210-ad2d-11e7-9f96-da73dd234bf7.png) <br> <br>
 
 ![image](https://user-images.githubusercontent.com/26721853/31343673-ecfdcaa4-ad2d-11e7-9bd7-f975dbefaf15.png) <br> <br>
-![image](https://user-images.githubusercontent.com/26721853/31375816-6cf2e07c-adc0-11e7-99f0-7032c6904cb3.png)
+![image](https://user-images.githubusercontent.com/26721853/31375816-6cf2e07c-adc0-11e7-99f0-7032c6904cb3.png) <br> <br>
+![image](https://user-images.githubusercontent.com/26721853/31375929-ca9b610e-adc0-11e7-8c6d-5ea00d4128cc.png)
+
 
 
 
