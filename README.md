@@ -12,6 +12,8 @@ The Rooms.html page gives information about the room rates for different categor
 ![image](https://user-images.githubusercontent.com/26721853/31375816-6cf2e07c-adc0-11e7-99f0-7032c6904cb3.png) <br> <br>
 ![image](https://user-images.githubusercontent.com/26721853/31375929-ca9b610e-adc0-11e7-8c6d-5ea00d4128cc.png) <br> <br>
 ![image](https://user-images.githubusercontent.com/26721853/31444015-935b9aee-aeb8-11e7-82f4-314e5dec6c91.png) <br> <br>
+![image](https://user-images.githubusercontent.com/26721853/31444102-d4ba2032-aeb8-11e7-8619-23d6129578a3.png) <br> <br>
+
 
 
 
