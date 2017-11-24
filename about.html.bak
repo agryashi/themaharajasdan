@@ -15,8 +15,7 @@
 <meta property="og:title" content="Vide" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Best Hotel Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+<meta name="keywords" content="" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!---->
 <script src="js/bootstrap.min.js"></script>
@@ -53,10 +52,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						   <ul class="nav navbar-nav">
 							<li><a href="index.html" data-hover="Home">Home </a></li>
 							<li class="active"><a href="about.html" data-hover="About">About</a></li>
-							<li><a data-hover="Events" href="restaurant.html">Events</a></li>
+							<li><a data-hover="Events" href="events.html">Events</a></li>
 							<li><a data-hover="Gallery" href="gallery.html">Gallery</a></li>
 							<li><a data-hover="Rooms" href="rooms.html">Rooms</a></li>
-							  <li><a  href="codes.html" data-hover="codes">Codes</a></li>
 							 <li><a data-hover="Contact" href="contact.html">Contact</a></li>
 							 
 						  </ul>

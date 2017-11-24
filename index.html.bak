@@ -64,7 +64,7 @@
 						  <ul class="nav navbar-nav">
 							<li class="active"><a href="index.html" data-hover="Home">Home </a></li>
 							<li><a href="about.html" data-hover="About">About</a></li>
-							<li><a data-hover="Events" href="restaurant.html">Events</a></li>
+							<li><a data-hover="Events" href="events.html">Events</a></li>
 							<li><a data-hover="Gallery" href="gallery.html">Gallery</a></li>
 							<li><a data-hover="Rooms" href="rooms.html">Rooms</a></li>
 							 <li><a data-hover="Contact" href="contact.html">Contact</a></li>
@@ -239,12 +239,12 @@
 					<ul>
 		                                            <li><i class="glyphicon glyphicon-tick"></i>AC</li><br>
 													<li><i class="glyphicon glyphicon-tick"></i>Internet</li><br>
-													<li><i class="glyphicon glyphicon-tick"></i>Geyser</li>
-													<li><i class="glyphicon glyphicon-tick"></i>Water Cooler</li>
-													<li><i class="glyphicon glyphicon-tick"></i>Power Backup</li>
-													<li><i class="glyphicon glyphicon-tick"></i>Attached Bath</li>
-													<li><i class="glyphicon glyphicon-tick"></i>Gym</li>
-													<li><i class="glyphicon glyphicon-tick"></i>Security Gaurd</li>
+													<li><i class="glyphicon glyphicon-tick"></i>Geyser</li><br>
+													<li><i class="glyphicon glyphicon-tick"></i>Water Cooler</li><br>
+													<li><i class="glyphicon glyphicon-tick"></i>Power Backup</li><br>
+													<li><i class="glyphicon glyphicon-tick"></i>Attached Bath</li><br>
+													<li><i class="glyphicon glyphicon-tick"></i>Gym</li><br>
+													<li><i class="glyphicon glyphicon-tick"></i>Security Gaurd</li><br>
 
 
 
@@ -375,11 +375,11 @@
 						</div>
 						<div class="col-md-6 testimonial-grid test3">
 							<div class="testimonial-left">
-								<img src="images/t10.jpg" class="img-responsive" alt=""/>
+								<img src="images/yashi.jpg" class="img-responsive" alt=""/>
 							</div>
 							<div class="testimonial-right">
 								<div class="testimonial-text">
-									<h5>Exactly What I Need</h5>
+									<h5>In love with this place</h5>
 								</div>
 								<div class="testimonial-rating">
 									<i class="fa fa-star"></i>
@@ -389,8 +389,8 @@
 									<i class="fa fa-star"></i>
 								</div>
 								<div class="clearfix"></div>
-								<p>Quisque aliquet ornare nunc in viverra. Nullam ornare molestie ligula in luctus. Suspendisse ac cursus elit. Donec vel enim sit amet lorem vulputate condimentum.</p>
-								<div class="testimonial-sign">-Rachel Fast</div><!-- /.testimonial-sign -->
+								<p>This place provided me everything that i needed for my overall development like furnished rooms,healthy food,gym room etc.All these things helped me to make my hostel life worth living.</p>
+								<div class="testimonial-sign">-Yashi Bindal</div><!-- /.testimonial-sign -->
 							
 							</div>
 							<div class="clearfix"></div>

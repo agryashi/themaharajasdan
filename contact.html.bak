@@ -51,10 +51,9 @@
 						   <ul class="nav navbar-nav">
 							<li><a href="index.html" data-hover="Home">Home </a></li>
 							<li><a href="about.html" data-hover="About">About</a></li>
-							<li><a data-hover="Restaurant" href="restaurant.html">Restaurant</a></li>
+							<li><a data-hover="Events" href="events.html">Events</a></li>
 							<li><a data-hover="Gallery" href="gallery.html">Gallery</a></li>
 							<li><a data-hover="Rooms" href="rooms.html">Rooms</a></li>
-							  <li><a  href="codes.html" data-hover="codes">Codes</a></li>
 							 <li class="active"><a data-hover="Contact" href="contact.html">Contact</a></li>
 							 
 						  </ul>
@@ -90,11 +89,11 @@
 					</div>
 					<div class="col-md-8 contact-left cont">
 						<h4>Contact Form</h4>
-						<form action="#" method="post">
-							<input type="text" name="Name" value="Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}" required="">
-							<input type="email" name="Email" value="Email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}" required="">
-							<input type="text" name="Phone" value="Phone" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Phone';}" required="">
-							<textarea type="text" name="Message"  onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message...';}" required="">Message...</textarea>
+						<form action="save1.php" method="post">
+							<input type="text" name="t1" value="Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}" required="">
+							<input type="email" name="t2" value="Email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}" required="">
+							<input type="text" name="t3" value="Phone" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Phone';}" required="">
+							<textarea type="text" name="t4"  onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message...';}" required="">Message...</textarea>
 							<input type="submit" value="Submit" >
 							<input type="reset" value="Clear" >
 						</form>
